@@ -1,0 +1,23 @@
+{
+  "name": "the-keymirror",
+  "version": "1.0.0",
+  "description": "create keys and values width keys and packagename",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xsgkaka/TheKeymirror.git"
+  },
+  "keywords": [
+    "keys",
+    "map"
+  ],
+  "author": "xsg2006@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xsgkaka/TheKeymirror/issues"
+  },
+  "homepage": "https://github.com/xsgkaka/TheKeymirror#readme"
+}
